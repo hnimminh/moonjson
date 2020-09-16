@@ -11,9 +11,10 @@ A lightweight JavaScript Object Notation library for Lua
 
 
 ## Usage
-* The [json.lua](src/json.lua?raw=1) file should be dropped into an existing project or
-* Install via luarocks
-```luarocks install moonjson```
+* The [json.lua](src/json.lua?raw=1) file should be dropped into an existing project or install via luarocks
+```shell
+luarocks install moonjson
+```
 
 then required by it:
 ```lua
