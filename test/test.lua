@@ -1,7 +1,4 @@
-
 local json = loadfile("../src/json.lua")()
-
-
 local fmt = string.format
 
 local function test(name, func)
