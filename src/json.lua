@@ -1,6 +1,6 @@
 local json = {
   _VERSION     = 'moonjson 0.1.2-1',
-  _DESCRIPTION = 'A lightweight JavaScript Object Notation library for Lua',
+  _DESCRIPTION = 'A lightweight JSON library for Lua',
   _COPYRIGHT   = 'Copyright (C) 2020',
   _EDITOR      = 'Minh Minh'
 }
