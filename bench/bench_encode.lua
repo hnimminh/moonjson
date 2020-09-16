@@ -2,10 +2,10 @@ local bench = require "util.bench"
 
 
 local libs = {
-  "../src/json.lua",
-  "dkjson.lua",     -- https://github.com/LuaDist/dkjson
-  "jfjson.lua",     -- http://regex.info/blog/lua/json
-  "json4lua.lua",   -- https://github.com/craigmj/json4lua
+  "../src/json.lua",  -- https://github.com/hnimminh/moonjson
+  "dkjson.lua",       -- https://github.com/LuaDist/dkjson
+  "jfjson.lua",       -- http://regex.info/blog/lua/json
+  "json4lua.lua",     -- https://github.com/craigmj/json4lua
 }
 
 
