@@ -3,7 +3,7 @@ version = "0.1.2-1"
 
 source = {
    url = "https://github.com/hnimminh/repository/raw/master/moonjson-0.1.2-1.zip",
-   md5 = ""
+   md5 = "834822376dbb0a920414ca88f6e72ae9"
 }
 
 description = {
